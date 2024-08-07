@@ -97,8 +97,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 
-theme: _config.ymlflexblock
-
+theme: _config.flexblock.yml
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
