@@ -1,14 +1,14 @@
 # Header
 menu:
   首页: /
-  友链: /links
   关于: /about
+  管理端: /admin
 
 # 主页banner图
 banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
 
 # 站点通知信息
-notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+notice: 欢迎来到我的博客，很高兴见到你！
 
 # 作者信息
 author:
@@ -101,17 +101,17 @@ social_icon:
   icons:
     ins     :
     zhihu   :
-    weibo   : 
-    github  : https://github.com/miiiku/
-    twitter : https://twitter.com/guanquanhong
+    github  : https://github.com/daogu2024/
+    twitter : https://twitter.com/daogu666
 
-deploy:
-  type: git
-  repo: git@github.com:daogu2024/xidaogua-qwq.com.git 
-  branch: main
+# 网站统计
+# docs: https://busuanzi.ibruce.info/
+busuanzi:
+  enable: true
 
-# hexo-admin authentification
-admin:
-  username: 官方
-  password_hash: $2a$10$78T0jReGhLtszwyBoI3c9OrrCvVg7qiH9PGTq0Y4hr29llynuQucG
-  secret: ahjkvsjbsefgvksjbg
+# 网站底部信息
+footer:
+  enable: true
+  copyright: 2023 - 2024
+  since: 2024
+  author: 系稻谷啊

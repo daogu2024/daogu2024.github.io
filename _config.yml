@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://bilibilidaogu—qwq.githug.io
+url: https://github.com/daogu2024/daogu2024.github.io.git
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,7 +106,7 @@ theme: flexblock
   
 deploy:
   type: git
-  repo: git@github.com:daogu2024/xidaogua-qwq.com.git 
+  repo: git@github.com:daogu2024/daogu2024.github.io.git
   branch: main
 
 # hexo-admin authentification
