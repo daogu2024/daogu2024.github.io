@@ -12,7 +12,7 @@ notice: flex-block主题部分重构，详情查看https://github.com/miiiku/fle
 
 # 作者信息
 author:
-  name: Sukoshi
+  name: 系稻谷啊
   avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
   description: 贵在坚持
 
@@ -104,3 +104,14 @@ social_icon:
     weibo   : 
     github  : https://github.com/miiiku/
     twitter : https://twitter.com/guanquanhong
+
+deploy:
+  type: git
+  repo: git@github.com:daogu2024/xidaogua-qwq.com.git 
+  branch: main
+
+# hexo-admin authentification
+admin:
+  username: 官方
+  password_hash: $2a$10$78T0jReGhLtszwyBoI3c9OrrCvVg7qiH9PGTq0Y4hr29llynuQucG
+  secret: ahjkvsjbsefgvksjbg
