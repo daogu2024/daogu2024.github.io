@@ -2,6 +2,7 @@
 menu:
   首页: /
   关于: /about
+  友链: /links
   管理端: /admin
 
 # 主页banner图
@@ -13,7 +14,7 @@ notice: 欢迎来到我的博客，很高兴见到你！
 # 作者信息
 author:
   name: 系稻谷啊
-  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
+  avatar: https://cdn.luogu.com.cn/upload/image_hosting/yl3z567k.png
   description: 贵在坚持
 
 toc:
