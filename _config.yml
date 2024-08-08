@@ -107,7 +107,7 @@ theme: hexo-theme-flexblock
   
 deploy:
   type: git
-  repo: git@github.com:daogu2024/daogu2024.github.io.git
+  repo: git@github.com:daogu2024/bilibili-daogu.github.io.git
   branch: main
 
 # hexo-admin authentification
